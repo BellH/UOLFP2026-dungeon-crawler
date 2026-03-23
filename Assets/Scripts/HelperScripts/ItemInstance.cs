@@ -11,3 +11,8 @@ public class ItemInstance
         itemType = itemData;
     }
 }
+
+/* 
+Reference:
+[26] J. French, How to Make an Inventory System in Unity, Game Dev Beginner, 2023. [Online]. Available: https://gamedevbeginner.com/how-to-make-an-inventory-system-in-unity/.
+*/

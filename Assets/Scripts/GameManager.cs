@@ -31,14 +31,14 @@ public class GameManager : MonoBehaviour
         gameUIManager.SetPlayerUIActive();
     }
 
-    //Implemented for testing Dungeon Generation Times (Uncomment to test)
-    void Update()
-    {
-        if(Input.GetKeyDown(KeyCode.Space))
-        {
-            LoadNextLevel();
-        }
-    }
+    // //Implemented for testing Dungeon Generation Times (Uncomment to test)
+    // void Update()
+    // {
+    //     if(Input.GetKeyDown(KeyCode.Space))
+    //     {
+    //         LoadNextLevel();
+    //     }
+    // }
 
     //Resets dungeon and moves player to 'next level'
     public void LoadNextLevel()

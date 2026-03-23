@@ -15,5 +15,5 @@ MonoBehaviour:
   loot:
   - {fileID: 11400000, guid: d17ae2b0b12b57d489bd52d2fec41dfd, type: 2}
   - {fileID: 11400000, guid: d74eb194564a74b45b2788c012aeed1b, type: 2}
-  - {fileID: 11400000, guid: 1ecc33a2befc7cd4d85f8dce95745a09, type: 2}
   - {fileID: 11400000, guid: 1d301b83a09b6a343984e39947079b8b, type: 2}
+  - {fileID: 11400000, guid: 1ecc33a2befc7cd4d85f8dce95745a09, type: 2}
