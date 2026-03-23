@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7bf15b49d0620e408502aa1d279c392, type: 3}
+  m_Name: ContainerLootPool
+  m_EditorClassIdentifier: Assembly-CSharp::LootPool
+  loot:
+  - {fileID: 11400000, guid: d17ae2b0b12b57d489bd52d2fec41dfd, type: 2}
+  - {fileID: 11400000, guid: d74eb194564a74b45b2788c012aeed1b, type: 2}
+  - {fileID: 11400000, guid: 1ecc33a2befc7cd4d85f8dce95745a09, type: 2}
+  - {fileID: 11400000, guid: 1d301b83a09b6a343984e39947079b8b, type: 2}
+  - {fileID: 11400000, guid: 983327eb4b6a7674d953546ec1a3fbeb, type: 2}
+  - {fileID: 11400000, guid: 1ab71d9b1891eb344ad717b0aacee18d, type: 2}
+  - {fileID: 11400000, guid: 7209dea901eea0446aab2862e86463e5, type: 2}

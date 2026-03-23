@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecb496ba2c0df704a970954205817ffb, type: 3}
+  m_Name: SpoonData
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  itemName: Spoon
+  itemPrefab: {fileID: 7132072665022470685, guid: bb7fe37106774e540974f65f60b64a44, type: 3}
+  category: Weapons
+  weaponDamage: 3
+  attackDuration: 0.5
+  weaponCooldown: 0.5
